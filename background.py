@@ -8,6 +8,7 @@ celery = Celery(__name__, backend=BACKEND, broker=BROKER)
 
 _APP = None
 
+
 @celery.task
 def fetch_all_runs():
     global _APP
