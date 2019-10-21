@@ -24,5 +24,5 @@ stravalib==0.9.4
 units==0.7
 urllib3==1.23
 vine==1.1.4
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 WTForms==2.2.1
